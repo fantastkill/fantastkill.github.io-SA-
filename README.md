@@ -8,7 +8,7 @@ Site institucional desenvolvido para a imobiliária Sabrina Buenos Imóveis, esp
 
 ## 🚀 Deploy
 
-**GitHub Pages:** fantastkill.github.io/SA/
+**GitHub Pages:** (https://fantastkill.github.io/SA/)
 ## 🛠️ Tecnologias
 
 - HTML5
